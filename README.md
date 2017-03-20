@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+***Please note this project is incomplete at the moment.*** *Double check before building that you have all the parts you require.*
 
-You can use the [editor on GitHub](https://github.com/jake-walker/homemade-laser-tag/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Parts
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Electronics
 
-### Markdown
+**Notes**
+* *All parts (currently) have free shipping to the UK or are available to pick up from Argos for free.*
+* *Most parts are from China so may take about a month to arrive to the UK. This makes everything a lot cheaper.*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<iframe src="https://docs.google.com/spreadsheets/d/10sGLMlorx0YPMuvcdUpBfA7B0fZ4rBAWfWaThR9MVnE/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="width: 100%; height: 500px;"></iframe>
 
-```markdown
-Syntax highlighted code block
+## Build
 
-# Header 1
-## Header 2
-### Header 3
+| Name | Use | Price | Link | Notes |
+| ---- | --- | ----- | ---- | ----- |
+| Pipe | Laser Optics | £1.50 | *(buy from home supply shop)* | [Assembly Instructions](http://www.lasertagparts.com/mtoptics.htm) |
+| Lens | Laser Optics | ~£4.00<sup>[1]</sup> | [Alibaba](https://www.alibaba.com/product-detail/Optical-double-convex-glass-lens_1175507324.html?s=p) | [Assembly Instructions](http://www.lasertagparts.com/mtoptics.htm) |
+| **Total** |  | **£5.50** |  |  | 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jake-walker/homemade-laser-tag/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<sup>[1]</sup> Estimated price could be more expensive.
