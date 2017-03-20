@@ -15,7 +15,11 @@
 | Name | Use | Price | Link | Notes |
 | ---- | --- | ----- | ---- | ----- |
 | Pipe | Laser Optics | £1.50 | *(buy from home supply shop)* | [Assembly Instructions](http://www.lasertagparts.com/mtoptics.htm) |
-| Lens | Laser Optics | ~£4.00<sup>[1]</sup> | [Alibaba](https://www.alibaba.com/product-detail/Optical-double-convex-glass-lens_1175507324.html?s=p) | [Assembly Instructions](http://www.lasertagparts.com/mtoptics.htm) |
+| Lens | Laser Optics | £4.00<sup>[1]</sup> | [Alibaba](https://www.alibaba.com/product-detail/Optical-double-convex-glass-lens_1175507324.html?s=p) | [Assembly Instructions](http://www.lasertagparts.com/mtoptics.htm) |
 | **Total** |  | **£5.50** |  |  |
 
 <sup>[1]</sup> Estimated price could be more expensive.
+
+## Case
+
+I plan to use an old Nurf Gun which I plan to take the innards out of and put in the electronics. This would be the cheapest option for me as I have one laying around I don't need. However, you could use any toy gun. Make sure you can easily put a switch near the trigger which will be pressed when the trigger is pulled.
