@@ -1,7 +1,3 @@
----
-title: Homemade Laser Tag
----
-
 ***Please note this project is incomplete at the moment.*** *Double check before building that you have all the parts you require.*
 
 # Parts
