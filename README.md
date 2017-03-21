@@ -22,4 +22,4 @@
 
 ## Case
 
-I plan to use an old Nurf Gun which I plan to take the innards out of and put in the electronics. This would be the cheapest option for me as I have one laying around I don't need. However, you could use any toy gun. Make sure you can easily put a switch near the trigger which will be pressed when the trigger is pulled.
+I plan to use an old Nerf Gun which I plan to take the innards out of and put in the electronics. This would be the cheapest option for me as I have one laying around I don't need. However, you could use any toy gun. Make sure you can easily put a switch near the trigger which will be pressed when the trigger is pulled.
